@@ -6,7 +6,8 @@ local config = {}
 if wezterm.config then config = wezterm.config end
 
 -- Settings
-config.color_scheme = "Batman"
+config.color_scheme = "Bright Lights"
+-- config.color_scheme = "Apple System Colors"
 config.font = wezterm.font {
     family = 'JetBrains Mono',
     weight = 'DemiBold'
@@ -84,7 +85,6 @@ config.key_tables = {
     }
 }
 
---
 -- Tab bar
 --
 ---Return the suitable argument depending on the appearance
