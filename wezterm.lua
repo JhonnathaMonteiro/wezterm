@@ -84,6 +84,7 @@ config.key_tables = {
     }
 }
 
+--
 -- Tab bar
 --
 ---Return the suitable argument depending on the appearance
